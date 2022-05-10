@@ -11,9 +11,6 @@
 - JavaScript
 - webpack
 
-## Live Link
-
-[view live demo](https://ericmahare.github.io/todo-list/)
 
 ## Getting Started
 
