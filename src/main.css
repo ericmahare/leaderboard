@@ -7,15 +7,21 @@
 }
 
 body {
-  background-color: #fefefe;
+  background-color: rgb(57, 139, 227);
   font-family: 'Roboto', sans-serif;
   font-size: 1.5rem;
+  color: #fff;
 }
 
 .container {
   width: 70vw;
   margin: 0 auto;
   margin-top: 4rem;
+}
+
+.refresh {
+  color: #fff;
+  margin-left: 2rem;
 }
 
 .heading {
@@ -38,11 +44,26 @@ input {
   padding: 18px;
   margin: 0.5rem 0;
   font-size: 22px;
+  border-radius: 5px;
+  outline: none;
+}
+
+.underline {
+  width: 8rem;
+  background-color: #fff;
+  height: 0.2rem;
+  margin: 0.5rem auto;
 }
 
 .add-btn {
-  width: 5rem;
-  padding: 8px;
+  width: 100%;
+  padding: 18px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  color: #fff;
+  font-size: 1.5rem;
+  background-color: rgba(0, 0, 255, 0.437);
 }
 
 .display {
@@ -51,12 +72,12 @@ input {
 }
 
 .scores {
-  border: 2px solid #000;
+  border: 4px solid #fff;
   margin-top: 1rem;
 }
 
 .scores div:nth-child(even) {
-  background-color: #e6e6e6;
+  background-color: #c4c4c4;
 }
 
 .scores-info {
