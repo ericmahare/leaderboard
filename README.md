@@ -12,7 +12,7 @@
 - webpack
 ## Live Link
 
-[view live demo](https://ericmahare.github.io/todo-list/)
+[view live demo](https://ericmahare.github.io/leaderboard/)
 
 ## Getting Started
 
