@@ -9,8 +9,8 @@
 body {
   background-color: rgb(57, 139, 227);
   font-family: 'Roboto', sans-serif;
-  font-size: 1.5rem;
   color: #fff;
+  font-size: 1rem;
 }
 
 .container {
@@ -26,7 +26,7 @@ body {
 
 .heading {
   text-align: center;
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: bold;
 }
 
@@ -41,7 +41,7 @@ body {
 
 input {
   width: 100%;
-  padding: 18px;
+  padding: 14px;
   margin: 0.5rem 0;
   font-size: 22px;
   border-radius: 5px;
