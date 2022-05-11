@@ -1,6 +1,19 @@
 import './main.css';
-import addUi from './modules/ui.js';
+import App from './modules/app.js';
 
-document.addEventListener('DOMContentLoaded', () => {
-  addUi();
+const form = document.querySelector('form');
+const refresh = document.querySelector('#refresh');
+
+document.addEventListener('DOMContentLoaded', async () => {
+  App.displayData();
+});
+
+form.addEventListener('submit', (e) => {
+  e.preventDefault();
+  App.postData();
+});
+
+refresh.addEventListener('click', (e) => {
+  e.preventDefault();
+  App.displayData();
 });
