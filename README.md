@@ -2,7 +2,7 @@
 
 # Loaderboard
 
-> This is a project for adding and getting scores from the loaderboard api.
+> This is a project for adding and getting scores from the leaderboard api.
 
 ## Built With
 
@@ -12,7 +12,7 @@
 - webpack
 ## Live Link
 
-[view live demo](https://ericmahare.github.io/todo-list/)
+[view live demo](https://ericmahare.github.io/leaderboard/)
 
 ## Getting Started
 
