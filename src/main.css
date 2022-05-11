@@ -9,7 +9,7 @@
 body {
   background-color: #fefefe;
   font-family: 'Roboto', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 
 .container {
@@ -20,7 +20,7 @@ body {
 
 .heading {
   text-align: center;
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: bold;
 }
 
